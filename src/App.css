@@ -30,3 +30,15 @@
     transform: rotate(360deg);
   }
 }
+
+.matching-string {
+  color: rgb(0, 201, 0);
+  text-decoration: underline;
+}
+.not-matching-string {
+  color: red;
+  text-decoration: underline;
+}
+.inactive-string {
+  color: rgb(77, 77, 77);
+}
